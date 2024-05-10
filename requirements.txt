@@ -1,0 +1,11 @@
+--index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://pypi.org/simple
+#ffmpeg
+#ffmpeg-python
+boto3
+opencv-python-headless
+Pillow
+numpy
+torch
+torchvision
+facenet_pytorch
