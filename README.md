@@ -39,7 +39,7 @@ The application processes videos uploaded by users, extracting frames and perfor
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-github-username/serverless-video-analysis.git](https://github.com/krishna-k31/Serverless-Video-Analysis-Pipeline-on-AWS.git)
+   git clone https://github.com/krishna-k31/Serverless-Video-Analysis-Pipeline-on-AWS.git
    cd Serverless-Video-Analysis-Pipeline-on-AWS
 
 2. **Set up AWS resources:**
