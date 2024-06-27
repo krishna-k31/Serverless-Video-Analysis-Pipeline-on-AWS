@@ -1,6 +1,7 @@
 # Serverless-Video-Analysis-Pipeline-on-AWS
 
-This project focuses on building a scalable and cost-effective serverless application for video analysis using AWS Lambda and supporting AWS services.
+This project focuses on building a scalable and cost-effective serverless application for video analysis using AWS Lambda and supporting AWS services. Conducted load testing on the serverless, auto-scaling video processing pipeline to evaluate its ability to handle 100 simultaneous requests within a 200-second timeframe.
+
 
 ## Project Overview
 
